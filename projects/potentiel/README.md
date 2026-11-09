@@ -30,7 +30,7 @@ The analysis and matching workflow currently uses recruitment documents as a POC
 
 The owner has already claimed the opportunity and now prepares it for publication by adding an assessment and supporting documents.
 
-https://github.com/user-attachments/assets/b62151ad-ae87-4014-8e03-7e47928f2ffa
+https://github.com/user-attachments/assets/36da42b2-5abc-49b5-bf3e-7d142fb0492b
 
 *Preparing an assessment or uploading documents does not publish the opportunity.*
 
@@ -40,7 +40,7 @@ A buyer reviews an opportunity and its documents, then signs in to compare expli
 
 Matching reuses a stored analysis revision alongside selected profile evidence. Separating extraction from matching supports reuse, at the cost of an extra processing stage and orchestration.
 
-https://github.com/user-attachments/assets/cb044a60-f4e0-4d70-a627-f9d536c91c2d
+https://github.com/user-attachments/assets/2cc732d1-936c-4efe-be5f-303472362fac
 
 *Inspect requirement-level matches, supporting evidence and gaps.*
 
@@ -51,7 +51,7 @@ An administrator reviews LLM run quality, latency and estimated cost, then inspe
 
 Each run retains its inputs, outputs and token usage; human evaluations are stored separately to assess quality without overwriting the result. Reviewers can flag potential hallucinations and bias. The pass rate is `passed / (passed + failed)`, shown with sample size and review coverage; unevaluated runs are excluded.
 
-https://github.com/user-attachments/assets/0969b903-3e87-48ab-837d-f989bb8468e0
+https://github.com/user-attachments/assets/43734aa8-c0ff-4fe4-95c0-a9e0542e8f9f
 
 <details>
 <summary>Under the hood: a matching run and its human evaluation</summary>
@@ -301,7 +301,3 @@ I also plan to explore and share these topics in more depth:
 - **Harness engineering:** the context, tools, verification and feedback loops supporting my AI-assisted development process.
 - **One change from specification to delivery:** OpenSpec artifacts, the PR stack, validation evidence and retrospective.
 - **Grounded sales-deck generation:** investigating hallucinations when generating presentations from a narrative and lead context, in a separate application.
-
-
-
-
