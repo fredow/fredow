@@ -4,13 +4,9 @@
 
 Entrepreneur at heart, engineer by trade. I work at the intersection of product, engineering, and technology leadership — increasingly through AI-native development workflows. Today I'm particularly interested in how AI changes how products are built and engineering organizations operate.
 
-## Projects
-
-- **[Potentiel](projects/potentiel/)** — An SME ownership-transfer platform, with product demos, architecture, inspectable LLM workflows and spec-driven AI-assisted delivery.
-
 ## Selected technical outcomes
 
-- **AI-native engineering** — Applied governed agentic development workflows combining parallel agents, curated Markdown context chains, automated reviews and preview links, architecture controls, and explicit human decision gates.
+- **[AI-native engineering](projects/potentiel/)** — Applied governed agentic development workflows combining parallel agents, curated Markdown context chains, automated reviews and preview links, architecture controls, and explicit human decision gates.
 - **Geospatial systems** — Re-architected Landerz's geospatial stack, reducing typical map loads from ~30s to <500 ms for the same request by moving from JSON-based payloads to vector tiles served by dedicated tile microservices.
 - **Real-time media systems** — Built MyReplay's distributed video network across six indoor sports venues and up to ~36 camera channels, processing terabytes of video and evolving from AI-selected multi-camera recaps to IoT-triggered clips and continuously rebuilt TV/VOD highlights available within minutes, while cutting cloud costs from ~$5K/month to <$500/month.
 - **Marketplace scale** — Evolved LunchBox's MySQL architecture on RDS from primary/replica to a sharded, multi-master topology spanning five cities, while optimizing connection pooling and concurrency to support 25K users, 200 restaurants, and ~300 transactions/day.
